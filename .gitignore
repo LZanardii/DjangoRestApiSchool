@@ -15,6 +15,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 up
+setup.settings.py
 
 # C extensions
 *.so
@@ -184,4 +185,3 @@ buildNumber.properties
 *.tar.gz
 *.7z
 *.rar
-*.settings
