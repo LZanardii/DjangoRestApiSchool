@@ -1,0 +1,11 @@
+____Criando ambiente virtual_____
+colocar no terminal "py -m venv ./venv"
+
+____Ativando ambiente virtual____
+colocar no terminal "venv\Scripts\activate.bat"
+
+____Instalando Djando____
+py -m pip install Django
+
+____Crie um projeto chamado setup utilizando o Django admin, para manter toda configuração de nossa aplicação:____
+colocar no terminal "django-admin startproject setup ."
