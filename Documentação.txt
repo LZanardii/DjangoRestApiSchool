@@ -9,3 +9,22 @@ py -m pip install Django
 
 ____Crie um projeto chamado setup utilizando o Django admin, para manter toda configuração de nossa aplicação:____
 colocar no terminal "django-admin startproject setup ."
+
+____Instalar o Djando Rest Framework____
+pip install djangorestframework
+
+____Instalar o Markdown____
+pip install markdown
+
+____Iniciando app escola____
+py manage.py startapp escola
+
+____Rodar projeto____
+py manage.py runserver
+
+____Criando SuoerUser____
+py manage.py createsuperuser
+
+____ MIGRATION ____
+py manage.py makemigrations
+py manage.py migrate
