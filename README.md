@@ -1,5 +1,4 @@
 <h1>SchoolApi</h1>
-<p>Python rest api created using Django framework to manage courses, students and enrollment.</p>
 <h3>Features:</h3>
 <li>CRUD for all models</li>
 <li>Authentication for users</li>
